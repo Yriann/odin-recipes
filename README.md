@@ -1,2 +1,3 @@
 # odin-recipes
-First odin project
+First odin project with the goal of building a basic HTML website using 
+lists, links,images, headers, paragraphs, etc.
